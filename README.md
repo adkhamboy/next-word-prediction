@@ -6,7 +6,7 @@ This project is a next-word-prediction task in <b>Uzbek language</b> using prepr
 * First of all, a file including a collection of Uzbek news/comments/posts is provided. This data is not so good and if you have a larger data, you can improve the results.
 * Then data is preprocesed in data_preprocess.ipynb. After that vectors of data and labels are saved.
 * Then in train_model.ipynb saved data is loaded and a multilayer recurrent neural network using LSTM layers is trained.
-  After 30 epochs accuracy in training data is 0.923 and change of accuracy and loss is ploted:
+  After 10 epochs accuracy in training data is 0.923 and change of accuracy and loss is ploted:
   
 | accuracy      | loss      |
 |------------|-------------|
