@@ -19,3 +19,10 @@ This project is a next-word-prediction task in <b>Uzbek language</b> using prepr
 ## How to Improve
 * The most important problem of this project is not using big and appropriate primary data. Accuracy improves dramatically if you use more appropriate primary data.
 * Different parameters as well as different layers can be tested for the neural network model and the accuracy can be improved.
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
